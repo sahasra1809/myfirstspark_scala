@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2020-10-13T18:07:58.184Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="QU-vweS41Vhj6ProAFUE" version="13.7.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-15T11:49:52.285Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="0mWPZYGV_iyGFBy--AdX" version="13.7.9" type="github">
   <diagram id="xPtpbPQqeg2HB38CVVp6" name="Page-1">
-    <mxGraphModel dx="868" dy="482" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFF4C3" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="482" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#E6E6E6" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="mUWJ3L8nFUAqm5AwVYuB-28" value="Kore File" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/whcompare-servers-web-hosting/50/sftp-128.png;fillColor=#CCFFE6;" vertex="1" parent="1">
           <mxGeometry x="92" y="68" width="149" height="149" as="geometry" />
         </mxCell>
-        <mxCell id="mUWJ3L8nFUAqm5AwVYuB-27" value="Target DB" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFE6;" vertex="1" parent="1">
+        <mxCell id="mUWJ3L8nFUAqm5AwVYuB-27" value="Target DB" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF4C3;strokeColor=#E6E6E6;" vertex="1" parent="1">
           <mxGeometry x="626" y="98" width="175" height="249" as="geometry" />
         </mxCell>
         <mxCell id="mUWJ3L8nFUAqm5AwVYuB-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/file-61/20/file_json-128.png;fillColor=#6666FF;" vertex="1" parent="1">
@@ -28,11 +28,14 @@
         <mxCell id="mUWJ3L8nFUAqm5AwVYuB-8" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/famfamfam_mini_icons/tables.gif;fillColor=#6666FF;" vertex="1" parent="1">
           <mxGeometry x="408" y="106" width="32" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="mUWJ3L8nFUAqm5AwVYuB-9" value="Stagging&amp;nbsp;&lt;br&gt;DB" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/famfamfam_mini_icons/tables.gif;fillColor=#6666FF;" vertex="1" parent="1">
+        <mxCell id="mUWJ3L8nFUAqm5AwVYuB-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mUWJ3L8nFUAqm5AwVYuB-9" target="mUWJ3L8nFUAqm5AwVYuB-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mUWJ3L8nFUAqm5AwVYuB-9" value="Staging&amp;nbsp;&lt;br&gt;DB" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/famfamfam_mini_icons/tables.gif;fillColor=#6666FF;" vertex="1" parent="1">
           <mxGeometry x="408" y="302" width="32" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="mUWJ3L8nFUAqm5AwVYuB-13" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/outline-apps-and-programming/32/Applications_and_Programming_database_data_base-128.png;fillColor=#6666FF;" vertex="1" parent="1">
-          <mxGeometry x="619" y="136" width="170" height="170" as="geometry" />
+        <mxCell id="mUWJ3L8nFUAqm5AwVYuB-13" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/outline-apps-and-programming/32/Applications_and_Programming_database_data_base-128.png;fillColor=#FFFFFF;strokeColor=#CCCCFF;" vertex="1" parent="1">
+          <mxGeometry x="629" y="136" width="170" height="170" as="geometry" />
         </mxCell>
         <mxCell id="mUWJ3L8nFUAqm5AwVYuB-19" value="" style="shape=line;html=1;strokeWidth=6;strokeColor=#ff0000;fillColor=#6666FF;direction=south;" vertex="1" parent="1">
           <mxGeometry x="419" y="138" width="10" height="164" as="geometry" />
@@ -49,8 +52,8 @@
             <mxPoint x="508" y="220" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mUWJ3L8nFUAqm5AwVYuB-29" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;1.Json format batch file will be receiving from Kore team&amp;nbsp; via SFTP&amp;nbsp; &amp;nbsp;&lt;br&gt;2.CU file will receiving&amp;nbsp; via NDM process.&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;br&gt;3.Will be loading the raw data into Stagging area&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 4.Based on common key will be joining both tables and load in to final Eap table&amp;nbsp;&lt;br&gt;5.views will be created on base tables for businness users.&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="172" y="369" width="504" height="116" as="geometry" />
+        <mxCell id="mUWJ3L8nFUAqm5AwVYuB-29" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;1.Json format batch file will be receiving from Kore team&amp;nbsp; via SFTP(Citi internal not from third party).&amp;nbsp;&amp;nbsp;&lt;br&gt;2.CU file will receiving&amp;nbsp; via NDM process(Citi internal not from third party).&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;3.Will be loading the raw data into Stagging area&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 4.Based on common key will be joining both tables and load in to final Eap table&amp;nbsp;&lt;br&gt;5.views will be created on base tables for businness users.&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="13" y="369" width="822" height="116" as="geometry" />
         </mxCell>
         <mxCell id="mUWJ3L8nFUAqm5AwVYuB-30" value="Kore ai&amp;nbsp; and EAP data integration flow diagram&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="295.5" y="30" width="263" height="18" as="geometry" />
